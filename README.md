@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Alexander Jimenez
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning by myself HTML, CSS and JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data snalitics and data science
+- 🌱 I’m currently learning Python, SQL, Power BI
 
 <!---
 AJR-21/AJR-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander Jimenez
-- 👀 I’m interested in data snalitics and data science
+- 👀 I’m interested in data analitics and data science
 - 🌱 I’m currently learning Python, SQL, Power BI
 
 <!---
